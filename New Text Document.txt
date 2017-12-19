@@ -1,0 +1,8 @@
+import java.util.Scanner;
+public class helloforloop{
+public static void main(String...ar){
+Scanner obj=new Scanner(System.in);
+
+}
+
+}
